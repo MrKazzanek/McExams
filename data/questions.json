@@ -122,5 +122,18 @@
     ],
     "answer": "18",
     "explanation": "W Minecraft szablony wykończeń zbroi to specjalne wzory używane w stole kowalskim do dekorowania pancerza. Każdy trim odpowiada innemu wzorowi i można go znaleźć w różnych strukturach w świecie gry. W sumie istnieje 18 różnych wzorów trimów, które można zastosować do zbroi. Istnieje jeszcze Szablon ulepszenia netherytowego, ale nie liczymy go gdyż on nie udekoruje nam pancerza."
+  },
+  {
+    "id": 11,
+    "type": "abcd",
+    "question": "Co się stanie gdy rzucimy w axolotla butelką wody?",
+    "options": [
+      "Nic",
+      "Będzie przez 1,5 odporny na duszenie się poza wodą",
+      "Będzie machał ogonem",
+      "Będzie się szybciej poruszał"
+    ],
+    "answer": "Nic",
+    "explanation": "W Minecraft butelka wody nie ma żadnej specjalnej interakcji z aksolotlami — rzucenie jej w aksolotla nie daje żadnego efektu ani nie wpływa na jego zachowanie czy czas przeżycia poza wodą."
   }
 ]
