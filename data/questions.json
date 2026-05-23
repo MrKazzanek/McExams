@@ -148,5 +148,16 @@
     ],
     "answer": "Wszystkie entity bez creepera",
     "explanation": "W Minecraft komenda /kill @e[type=!minecraft:creeper] zabije wszystkie entity oprócz creeperów. Selector @e oznacza wszystkie entity znajdujące się w świecie, natomiast zapis type=!minecraft:creeper wyklucza z działania komendy wszystkie creepery. Oznacza to, że zabite zostaną moby, zwierzęta, przedmioty i inni gracze, ale creepery pozostaną nietknięte."
+  },
+  {
+    "id": 13,
+    "type": "tf",
+    "question": "W trybie przetrwania możemy zobaczyć 47 różnych obrazów. Czy to twierdzenie jest poprawne?",
+    "options": [
+      "Prawda",
+      "Fałsz"
+    ],
+    "answer": "Prawda",
+    "explanation": "W minecraft istnieje aż 51 obrazów, z czego 47 możemy zdobyć w trybie przetrwania."
   }
 ]
