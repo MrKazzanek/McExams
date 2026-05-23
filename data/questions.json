@@ -172,5 +172,18 @@
     ],
     "answer": "Bromeliad",
     "explanation": "Utwory Left To Bloom, Wending, Stand Tall zostały wykonane przez Lena Raine, zaś Bromeliad jest autorstwa Arona Cherofa."
+  },
+  {
+    "id": 15,
+    "type": "abcd",
+    "question": "Świat w minecraft ma szerokość:",
+    "options": [
+      "30 mln bloków",
+      "60 mln bloków",
+      "300 mln bloków",
+      "15 mln bloków"
+    ],
+    "answer": "60 mln bloków",
+    "explanation": "Świat w Minecraft ma 60 milionów bloków szerokości. Granice świata znajdują się na współrzędnych -30 000 000 oraz 30 000 000, więc od jednej krawędzi do drugiej dzieli nas 60 milionów bloków. Dalej znajduje się tzw. world border, czyli granica uniemożliwiająca normalne poruszanie się poza mapą."
   }
 ]
