@@ -2,401 +2,125 @@
   {
     "id": 1,
     "type": "abcd",
-    "question": "Który z poniższych bloków jest odporny na wybuchy Creepera?",
-    "options": ["Bruk", "Obsydian", "Piasek", "Drewno"],
-    "answer": "Obsydian",
-    "explanation": "Obsydian ma bardzo wysoką odporność na wybuchy (1200), co sprawia, że jest całkowicie niewrażliwy na eksplozje Creeperów i TNT."
+    "question": "Czym nie można nakarmić konia?",
+    "options": [
+      "Marchewką",
+      "Pszenicą",
+      "Cukrem",
+      "Snopem siana"
+    ],
+    "answer": "Snopem siana",
+    "explanation": "W Minecraft konie można karmić cukrem, pszenicą, jabłkami, złotymi jabłkami oraz złotymi marchewkami."
   },
   {
     "id": 2,
     "type": "abcd",
-    "question": "Jak nazywa się wymiar, do którego trafiamy po zbudowaniu portalu z obsydianu?",
-    "options": ["The End", "Nether", "Aether", "Deep Dark"],
-    "answer": "Nether",
-    "explanation": "Portal z obsydianu aktywowany krzesiwem prowadzi do piekielnego wymiaru zwanego Netherem."
+    "question": "Poza piórami z kurczaka i papugi jak jeszcze można zdobyć ten pospolity przedmiot?",
+    "options": [
+      "Kupić u osadnika",
+      "Znaleźć w zakopanym skarbie",
+      "Otrzymać w prezencie od oswojonego kota",
+      "Zdobyć jako rzadki łup po pokonaniu zombie"
+    ],
+    "answer": "Otrzymać w prezencie od oswojonego kota",
+    "explanation": "W Minecraft pióra można zdobyć głównie z kurczaków i papug, ale istnieje też inny sposób — oswojony kot może przynieść graczowi pióro jako prezent po przespanej nocy."
   },
   {
     "id": 3,
-    "type": "tf",
-    "question": "Złote jabłko można stworzyć używając sztabek złota i jabłka.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Standardowe złote jabłko tworzy się otaczając zwykłe jabłko ośmioma sztabkami złota w stole rzemieślniczym."
+    "type": "abcd",
+    "question": "Pod powierzchnią jakich biomów pojawiają się skamieliny?",
+    "options": [
+      "Bagien, Namorzynowych Bagien, Pustyni",
+      "Badlandów, Pustyni, Sawanny",
+      "Badlandów, Bagien, Pustyni",
+      "Bagien, Grzybowych Pól, Pustyni"
+    ],
+    "answer": "Bagien, Namorzynowych Bagien, Pustyni",
+    "explanation": "W Minecraft skamieliny mogą generować się pod powierzchnią biomów takich jak bagna, namorzynowe bagna oraz pustynie. Są to rzadkie struktury zbudowane głównie z bloków kości i czasem rudy diamentów."
   },
   {
     "id": 4,
-    "type": "abcd",
-    "question": "Ile biblioteczek potrzeba, aby uzyskać 30 poziom zaklęć na stole do zaklinania?",
-    "options": ["10", "12", "15", "20"],
-    "answer": "15",
-    "explanation": "Do osiągnięcia maksymalnego, 30. poziomu zaklinania, stół musi być otoczony dokładnie 15 biblioteczkami z zachowaniem jednego bloku odstępu."
+    "type": "tf",
+    "question": "Gracz w edycji Java Minecraft obudził się po nocy i przypadkowo zniszczył swoje łóżko w bazie. Następnie postawił je ponownie dokładnie w tym samym miejscu, ale nie kliknął w nie, aby ustawić punkt odrodzenia. Gdy później zginął w walce ze szkieletem, odrodził się w miejscu pierwszego pojawienia się na świecie. Czy to stwierdzenie jest prawdziwe?",
+    "options": [
+      "Prawda",
+      "Fałsz"
+    ],
+    "answer": "Fałsz",
+    "explanation": "W Java Minecraft gracz, który wcześniej ustawił punkt odrodzenia na łóżku, nie traci go automatycznie po jego zniszczeniu, jeśli łóżko zostanie ponownie postawione w tym samym miejscu i spełnia warunki ustawienia spawnu."
   },
   {
     "id": 5,
-    "type": "tf",
-    "question": "Smok Kresu (Ender Dragon) jest jedynym bossem w grze.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "W grze występują dwaj główni bossowie: Smok Kresu oraz Wither. Niektórzy zaliczają do nich również Strażnika (Warden)."
+    "type": "abcd",
+    "question": "80 minecraftowych ticków to:",
+    "options": [
+      "8 sekund",
+      "2 sekundy",
+      "4 sekundy",
+      "0,8 sekundy"
+    ],
+    "answer": "4 sekundy",
+    "explanation": "W Minecraft 20 ticków odpowiada jednej sekundzie, dlatego 80 ticków to 4 sekundy, ponieważ wystarczy podzielić 80 przez 20 i otrzymujemy czas w sekundach."
   },
   {
     "id": 6,
     "type": "abcd",
-    "question": "Jakie pożywienie najlepiej regeneruje punkty głodu i nasycenia?",
-    "options": ["Pieczony schab", "Złota marchewka", "Pieczona wołowina", "Złote jabłko"],
-    "answer": "Złota marchewka",
-    "explanation": "Złota marchewka oferuje najwyższy wskaźnik nasycenia w grze, co sprawia, że pasek głodu nie spada przez długi czas."
+    "question": "Minecraft Bedrock Edition został wydany w  roku:",
+    "options": [
+      "2009",
+      "2007",
+      "2011",
+      "2017"
+    ],
+    "answer": "2017",
+    "explanation": "Minecraft Bedrock Edition został oficjalnie wydany jako wspólna, ujednolicona wersja gry w 2017 roku, łącząc różne platformy w jedną edycję. W 2011 roku pojawiło się natomiast Minecraft Pocket Edition, o które nie pytaliśmy."
   },
   {
     "id": 7,
-    "type": "abcd",
-    "question": "Który instrument jest używany do oswajania wilka?",
-    "options": ["Mięso", "Kość", "Ryba", "Patyk"],
-    "answer": "Kość",
-    "explanation": "Wilki oswaja się poprzez podawanie im kości, które wypadają ze szkieletów."
+    "type": "tf",
+    "question": "Måns Olson jest pracownikiem studia Mojang.",
+    "options": [
+      "Prawda",
+      "Fałsz"
+    ],
+    "answer": "Prawda",
+    "explanation": "W Minecraft Måns Olson jest związany z Mojang jako Creative Director więc stwierdzenie, że jest pracownikiem studia Mojang, jest prawdziwe."
   },
   {
     "id": 8,
-    "type": "tf",
-    "question": "Creepery boją się kotów i ocelotów.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Creepery uciekają na odległość kilku bloków od kotów i ocelotów, co można wykorzystać do ochrony baz."
+    "type": "abcd",
+    "question": "Która z numeracji wersji jest poprawna dla snapshotów?",
+    "options": [
+      "26.1-snapshot-1",
+      "26.1-snapshot-a",
+      "26.1.1",
+      "26.1.snapshot.1"
+    ],
+    "answer": "26.1-snapshot-1",
+    "explanation": "W Minecraft snapshoty mają określony format nazewnictwa, który używa myślników i słowa „snapshot”, np. rok.numer_dropu-snapshot-numer_snapshota. Taki zapis jest zgodny z konwencją wersjonowania snapshotów."
   },
   {
     "id": 9,
-    "type": "abcd",
-    "question": "Na jakiej wysokości (Y) najczęściej można znaleźć diamenty w wersji 1.18+?",
-    "options": ["12", "-59", "0", "-16"],
-    "answer": "-59",
-    "explanation": "W nowych wersjach gry rozkład rud uległ zmianie – im głębiej, tym więcej diamentów. Najwięcej jest ich tuż nad bedrockiem, ok. poziomu Y: -59."
+    "type": "tf",
+    "question": "Płyta \"Lava Chicken\" autorstwa Hyper Potions wypadnie po zabiciu kury na której jeździ mały zombie.",
+    "options": [
+      "Prawda",
+      "Fałsz"
+    ],
+    "answer": "Fałsz",
+    "explanation": "Płyta ta wypada po zabiciu jeźdźcy - czyli zombiaka. Kura na której on jeździ nie da nam tego dysku."
   },
   {
     "id": 10,
     "type": "abcd",
-    "question": "Który mob nie płonie na słońcu?",
-    "options": ["Zombi", "Szkielet", "Creeper", "Fantom"],
-    "answer": "Creeper",
-    "explanation": "Creepery są odporne na światło słoneczne, w przeciwieństwie do nieumarłych takich jak Zombi czy Szkielety."
-  },
-  {
-    "id": 11,
-    "type": "tf",
-    "question": "Można spać w Netherze używając łóżka.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Próba użycia łóżka w Netherze lub Endzie kończy się natychmiastową i silną eksplozją."
-  },
-  {
-    "id": 12,
-    "type": "abcd",
-    "question": "Co wypada z Endermana po jego zabiciu?",
-    "options": ["Perła Kresu", "Oko Kresu", "Blok Kresu", "Pył Kresu"],
-    "answer": "Perła Kresu",
-    "explanation": "Endermany upuszczają Perły Kresu, które służą do teleportacji oraz tworzenia Oczu Kresu."
-  },
-  {
-    "id": 13,
-    "type": "abcd",
-    "question": "Jaki przedmiot jest potrzebny, aby uratować się przed upadkiem z dużej wysokości?",
-    "options": ["Wiadro wody", "Blok siana", "Pajęczyna", "Wszystkie powyższe"],
-    "answer": "Wszystkie powyższe",
-    "explanation": "Woda eliminuje obrażenia całkowicie, siano redukuje je o 80%, a pajęczyna spowalnia gracza, zapobiegając uderzeniu w ziemię."
-  },
-  {
-    "id": 14,
-    "type": "tf",
-    "question": "Netherytowe narzędzia toną w lawie.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Przedmioty wykonane z netherytu unoszą się na powierzchni lawy i nie ulegają spaleniu."
-  },
-  {
-    "id": 15,
-    "type": "abcd",
-    "question": "Jak nazywa się twórca Minecrafta (pseudonim)?",
-    "options": ["Dinnerbone", "Notch", "Jeb", "Grumm"],
-    "answer": "Notch",
-    "explanation": "Markus Persson, założyciel Mojang, znany był w sieci pod pseudonimem Notch."
-  },
-  {
-    "id": 16,
-    "type": "abcd",
-    "question": "Który z tych mobów jest pasywny?",
-    "options": ["Pająk (w dzień)", "Enderman", "Krowa", "Pillager"],
-    "answer": "Krowa",
-    "explanation": "Krowy nigdy nie atakują gracza, są mobami wyłącznie pasywnymi."
-  },
-  {
-    "id": 17,
-    "type": "tf",
-    "question": "Można hodować grzyby na świetle słonecznym bez żadnych dodatkowych bloków.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Grzyby wymagają niskiego poziomu światła, chyba że są posadzone na grzybni lub podzol."
-  },
-  {
-    "id": 18,
-    "type": "abcd",
-    "question": "Ile żelaza potrzeba do stworzenia pełnej zbroi?",
-    "options": ["24", "22", "26", "20"],
-    "answer": "24",
-    "explanation": "Kask (5), Napierśnik (8), Nogawice (7) i Buty (4) wymagają łącznie 24 sztabek żelaza."
-  },
-  {
-    "id": 19,
-    "type": "abcd",
-    "question": "Co jest potrzebne do aktywacji portalu do Endu?",
-    "options": ["Perła Kresu", "Oko Kresu", "Ognisty proszek", "Łza Ghasta"],
-    "answer": "Oko Kresu",
-    "explanation": "Do aktywacji ramy portalu w Twierdzy potrzebne jest umieszczenie 12 Oczu Kresu."
-  },
-  {
-    "id": 20,
-    "type": "tf",
-    "question": "Wioska osadników może naturalnie wygenerować się na bagnie.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Choć istnieją tekstury bagiennych osadników, wioski nie generują się naturalnie na tym biomie."
-  },
-  {
-    "id": 21,
-    "type": "abcd",
-    "question": "Która ruda wymaga co najmniej kamiennego kilofa do wydobycia?",
-    "options": ["Węgiel", "Żelazo", "Złoto", "Diament"],
-    "answer": "Żelazo",
-    "explanation": "Węgiel można wydobyć drewnianym kilofem, ale żelazo wymaga już narzędzi kamiennych lub lepszych."
-  },
-  {
-    "id": 22,
-    "type": "abcd",
-    "question": "Jak nazywa się efekt statusu nakładany przez Wither Szkielety?",
-    "options": ["Trucizna", "Obumieranie", "Osłabienie", "Zmęczenie"],
-    "answer": "Obumieranie",
-    "explanation": "Atak Wither Szkieletu nakłada efekt Wither (Obumieranie), który powoli zabiera punkty życia i zaciemnia pasek HP."
-  },
-  {
-    "id": 23,
-    "type": "tf",
-    "question": "Można zmienić nazwę przedmiotu w kowadle.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Kowadło pozwala na zmianę nazwy dowolnego przedmiotu za określoną liczbę punktów doświadczenia."
-  },
-  {
-    "id": 24,
-    "type": "abcd",
-    "question": "Który mob eksploduje, gdy zbliży się do gracza?",
-    "options": ["Zombi", "Creeper", "Szkielet", "Slime"],
-    "answer": "Creeper",
-    "explanation": "Creeper to cichy mob, który po zbliżeniu się do celu zaczyna syczeć i wybucha po krótkiej chwili."
-  },
-  {
-    "id": 25,
-    "type": "abcd",
-    "question": "Ile trwa doba w Minecraft (dzień i noc)?",
-    "options": ["10 minut", "15 minut", "20 minut", "30 minut"],
-    "answer": "20 minut",
-    "explanation": "Pełny cykl dobowy w grze trwa dokładnie 20 minut czasu rzeczywistego."
-  },
-  {
-    "id": 26,
-    "type": "tf",
-    "question": "Płotki łączą się z bramkami.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Płoty i bramki automatycznie łączą się ze sobą, tworząc szczelną barierę."
-  },
-  {
-    "id": 27,
-    "type": "abcd",
-    "question": "Z czego robi się papier?",
-    "options": ["Z bambusa", "Z trzciny cukrowej", "Z liści", "Z drewna"],
-    "answer": "Z trzciny cukrowej",
-    "explanation": "Trzy jednostki trzciny cukrowej ułożone poziomo w stole rzemieślniczym dają trzy arkusze papieru."
-  },
-  {
-    "id": 28,
-    "type": "abcd",
-    "question": "Który enchantment pozwala chodzić po wodzie (zamieniać ją w lód)?",
-    "options": ["Głębinowy wędrowiec", "Mroźny piechur", "Niezniszczalność", "Ochrona"],
-    "answer": "Mroźny piechur",
-    "explanation": "Mroźny Piechur (Frost Walker) tworzy warstwę lodu pod nogami gracza, gdy ten porusza się po wodzie."
-  },
-  {
-    "id": 29,
-    "type": "tf",
-    "question": "Smok Kresu odradza się naturalnie co 100 dni w grze.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Smok nie odradza się sam – gracze muszą go przywołać używając czterech Kryształów Kresu."
-  },
-  {
-    "id": 30,
-    "type": "abcd",
-    "question": "Jakie zwierzę daje wełnę po ostrzyżeniu?",
-    "options": ["Krowa", "Świnia", "Owca", "Lama"],
-    "answer": "Owca",
-    "explanation": "Używając nożyc na owcy, możemy pozyskać od 1 do 3 bloków wełny bez zabijania zwierzęcia."
-  },
-  {
-    "id": 31,
-    "type": "abcd",
-    "question": "Co otrzymasz po połączeniu bruku i wody?",
-    "options": ["Obsydian", "Kamień", "Bruk", "Nic się nie dzieje"],
-    "answer": "Nic się nie dzieje",
-    "explanation": "Płynąca woda w kontakcie z lawą tworzy bruk, a woda w kontakcie ze źródłem lawy tworzy obsydian. Bruk z wodą nie reaguje."
-  },
-  {
-    "id": 32,
-    "type": "tf",
-    "question": "Tylko gracze mogą przechodzić przez portale.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Przez portale mogą przechodzić niemal wszystkie moby, a także przedmioty i niektóre wystrzelone pociski."
-  },
-  {
-    "id": 33,
-    "type": "abcd",
-    "question": "Jakie paliwo w piecu starcza na najdłużej?",
-    "options": ["Węgiel", "Blok węgla", "Wiadro lawy", "Pałeczka blaze'a"],
-    "answer": "Wiadro lawy",
-    "explanation": "Wiadro lawy pozwala na przetopienie 100 przedmiotów, co czyni je najwydajniejszym paliwem."
-  },
-  {
-    "id": 34,
-    "type": "abcd",
-    "question": "Który przedmiot służy do nawigacji w świecie?",
-    "options": ["Mapa", "Kompas", "Zegar", "Wszystkie powyższe"],
-    "answer": "Wszystkie powyższe",
-    "explanation": "Mapa pokazuje teren, kompas wskazuje punkt odrodzenia lub magnes, a zegar informuje o porze dnia."
-  },
-  {
-    "id": 35,
-    "type": "tf",
-    "question": "Wersja Minecraft Java Edition i Bedrock Edition są identyczne pod względem mechanik.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Istnieje wiele różnic w mechanikach (np. redstone, walka) oraz technicznych między tymi wersjami."
-  },
-  {
-    "id": 36,
-    "type": "abcd",
-    "question": "Jak nazywa się domyślna postać żeńska w Minecraft?",
-    "options": ["Steve", "Alex", "Elena", "Maria"],
-    "answer": "Alex",
-    "explanation": "Alex została wprowadzona jako druga domyślna postać, charakteryzująca się cieńszymi ramionami."
-  },
-  {
-    "id": 37,
-    "type": "abcd",
-    "question": "Z czego strzela Ghast?",
-    "options": ["Z łuku", "Kulami ognia", "Śnieżkami", "Piorunami"],
-    "answer": "Kulami ognia",
-    "explanation": "Ghasty atakują wybuchowymi kulami ognia, które gracz może odbić z powrotem w ich stronę."
-  },
-  {
-    "id": 38,
-    "type": "tf",
-    "question": "Można ujeżdżać świnie używając siodła.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Aby sterować świnią, należy użyć siodła oraz marchewki na patyku."
-  },
-  {
-    "id": 39,
-    "type": "abcd",
-    "question": "Jaki jest limit wysokości budowania w nowszych wersjach Minecraft?",
-    "options": ["256", "320", "512", "128"],
-    "answer": "320",
-    "explanation": "Od wersji 1.18 limit budowania został podniesiony do poziomu Y=320."
-  },
-  {
-    "id": 40,
-    "type": "abcd",
-    "question": "Który z tych bloków nie ulega grawitacji?",
-    "options": ["Piasek", "Żwir", "Beton (proszek)", "Ziemia"],
-    "answer": "Ziemia",
-    "explanation": "Piasek i żwir spadają, gdy pod nimi nie ma bloku, ziemia natomiast unosi się w powietrzu."
-  },
-  {
-    "id": 41,
-    "type": "tf",
-    "question": "Wither Szkielety pojawiają się w Twierdzach Netheru.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Wither Szkielety to unikalne moby występujące wyłącznie w strukturach fortec w Netherze."
-  },
-  {
-    "id": 42,
-    "type": "abcd",
-    "question": "Jakie warzywo można znaleźć w wioskach?",
-    "options": ["Marchewka", "Ziemniak", "Burak", "Wszystkie powyższe"],
-    "answer": "Wszystkie powyższe",
-    "explanation": "Osadnicy uprawiają na swoich polach różnorodne rośliny jadalne, w tym marchewki, ziemniaki i buraki."
-  },
-  {
-    "id": 43,
-    "type": "abcd",
-    "question": "Jak nazywa się rzadki mob, który handluje przedmiotami za szmaragdy?",
-    "options": ["Osadnik", "Wędrowny handlarz", "Rozbójnik", "Przywoływacz"],
-    "answer": "Wędrowny handlarz",
-    "explanation": "Wędrowny Handlarz pojawia się losowo w pobliżu gracza w towarzystwie dwóch lam."
-  },
-  {
-    "id": 44,
-    "type": "tf",
-    "question": "Złoto wydobywa się szybciej niż diamenty.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Prawda",
-    "explanation": "Złote narzędzia mają najwyższą prędkość kopania w grze, ale bardzo niską wytrzymałość."
-  },
-  {
-    "id": 45,
-    "type": "abcd",
-    "question": "Ile głów Wither Szkieletu potrzeba do przywołania Withera?",
-    "options": ["1", "2", "3", "4"],
-    "answer": "3",
-    "explanation": "Konstrukcja Withera wymaga ułożenia piasku dusz w kształcie litery T i umieszczenia trzech czaszek na górze."
-  },
-  {
-    "id": 46,
-    "type": "abcd",
-    "question": "Która mikstura pozwala oddychać pod wodą?",
-    "options": ["Mikstura regeneracji", "Mikstura oddychania wodą", "Mikstura noktowizji", "Mikstura szybkości"],
-    "answer": "Mikstura oddychania wodą",
-    "explanation": "Mikstura ta zapobiega ubytkowi pęcherzyków powietrza podczas nurkowania."
-  },
-  {
-    "id": 47,
-    "type": "tf",
-    "question": "Można łowić ryby w lawie.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Standardowa wędka spala się w lawie; łowienie ryb jest możliwe tylko w wodzie."
-  },
-  {
-    "id": 48,
-    "type": "abcd",
-    "question": "Jaki blok służy do zmiany punktu spawnu w Netherze?",
-    "options": ["Łóżko", "Kotwica odrodzenia", "Kamień magnetyczny", "Stół kowalski"],
-    "answer": "Kotwica odrodzenia",
-    "explanation": "Kotwica odrodzenia (Respawn Anchor) naładowana jasnogłazem pozwala na odradzanie się w Netherze."
-  },
-  {
-    "id": 49,
-    "type": "abcd",
-    "question": "Co otrzymasz, gdy uderzysz piorunem w świnię?",
-    "options": ["Pieczoną wieprzowinę", "Zombi Piglina", "Witch", "Creepera"],
-    "answer": "Zombi Piglina",
-    "explanation": "Piorun uderzający w świnię powoduje jej natychmiastową przemianę w Zombi Piglina."
-  },
-  {
-    "id": 50,
-    "type": "tf",
-    "question": "Oceloty można oswoić w taki sam sposób jak wilki.",
-    "options": ["Prawda", "Fałsz"],
-    "answer": "Fałsz",
-    "explanation": "Ocelotów nie można już oswoić tak jak wilków – podawanie im ryby powoduje jedynie, że przestają uciekać i zaczynają ufać graczowi."
+    "question": "Ile jest szablonów wykończeń zbroi w minecraft 1.21.11?",
+    "options": [
+      "19",
+      "18",
+      "20",
+      "W tej wersji nie ma jeszcze wzorów wykończeń zbroi"
+    ],
+    "answer": "18",
+    "explanation": "W Minecraft szablony wykończeń zbroi to specjalne wzory używane w stole kowalskim do dekorowania pancerza. Każdy trim odpowiada innemu wzorowi i można go znaleźć w różnych strukturach w świecie gry. W sumie istnieje 18 różnych wzorów trimów, które można zastosować do zbroi. Istnieje jeszcze Szablon ulepszenia netherytowego, ale nie liczymy go gdyż on nie udekoruje nam pancerza."
   }
 ]
