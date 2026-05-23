@@ -159,5 +159,18 @@
     ],
     "answer": "Prawda",
     "explanation": "W minecraft istnieje aż 51 obrazów, z czego 47 możemy zdobyć w trybie przetrwania."
+  },
+  {
+    "id": 14,
+    "type": "abcd",
+    "question": "Który z tych utworów nie jest autorstwa Lena Raine?",
+    "options": [
+      "Left To Bloom",
+      "Wending",
+      "Bromeliad",
+      "Stand Tall"
+    ],
+    "answer": "Bromeliad",
+    "explanation": "Utwory Left To Bloom, Wending, Stand Tall zostały wykonane przez Lena Raine, zaś Bromeliad jest autorstwa Arona Cherofa."
   }
 ]
