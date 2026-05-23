@@ -135,5 +135,18 @@
     ],
     "answer": "Nic",
     "explanation": "W Minecraft butelka wody nie ma żadnej specjalnej interakcji z aksolotlami — rzucenie jej w aksolotla nie daje żadnego efektu ani nie wpływa na jego zachowanie czy czas przeżycia poza wodą."
+  },
+  {
+    "id": 12,
+    "type": "abcd",
+    "question": "Komenda \"/kill @e[type=!minecraft:creeper]\"  zabije:",
+    "options": [
+      "Wszystkie entity wraz z creeperem",
+      "Tylko creepera",
+      "Wszystkie entity bez creepera",
+      "Komenda jest nie poprawna"
+    ],
+    "answer": "Wszystkie entity bez creepera",
+    "explanation": "W Minecraft komenda /kill @e[type=!minecraft:creeper] zabije wszystkie entity oprócz creeperów. Selector @e oznacza wszystkie entity znajdujące się w świecie, natomiast zapis type=!minecraft:creeper wyklucza z działania komendy wszystkie creepery. Oznacza to, że zabite zostaną moby, zwierzęta, przedmioty i inni gracze, ale creepery pozostaną nietknięte."
   }
 ]
